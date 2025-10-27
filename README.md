@@ -170,6 +170,10 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shady1440-181717?style=for-the-badge&logo=github)](https://github.com/shady1440)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shady_Abdelhamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shady-abdelhamid/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO7IqyJbtWts191fPzI0PuQ)
+
+> 📺 **YouTube Channel Note**: Not currently active, but will soon start an intro course for the most needed skills for any type of development!
 
 </div>
 
