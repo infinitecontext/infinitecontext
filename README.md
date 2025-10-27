@@ -143,16 +143,6 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 ---
 
-## 📈 Contribution Stats
-
-<div align="center">
-
-![GitHub Stats - Commits, PRs & Issues](https://github-readme-stats.vercel.app/api?username=shady1440&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 ## 🎯 Key Metrics
 
 <div align="center">
