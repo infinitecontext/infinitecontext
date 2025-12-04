@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Shady
+# 👋 Hi, I'm Shadi
 
-### Full Stack Developer | Frontend Specialist | Cloud Enthusiast
+### Full Stack Developer | Frontend Specialist | Cloud Enthusiast | AI-Assisted Development
 
 [![GitHub followers](https://img.shields.io/github/followers/shady1440?label=Follow&style=social)](https://github.com/shady1440)
 [![Profile Views](https://komarev.com/ghpvc/?username=shady1440&color=blue&style=flat)](https://github.com/shady1440)
@@ -11,9 +11,33 @@
 
 ---
 
+## 🏆 GitHub Contribution Matrix
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shady1440&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shady1440&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shady1440&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shady1440&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in modern web technologies, cloud infrastructure, and agile methodologies. I focus on building scalable, accessible, and secure applications while following best practices and industry standards.
+I'm a passionate full-stack developer who leverages **AI-assisted development** to build modern web applications. I combine traditional development expertise with cutting-edge AI tools like GitHub Copilot, Cursor, and Claude to deliver scalable, accessible, and secure applications efficiently. I focus on modern web technologies, cloud infrastructure, and agile methodologies while following best practices and industry standards.
 
 ---
 
@@ -47,6 +71,11 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NeonDB](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Authentication & Identity
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 ### Scripting & Automation
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -56,17 +85,21 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
 ![nvm](https://img.shields.io/badge/nvm-333333?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### Build Tools
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -80,6 +113,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 ### Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
@@ -114,9 +148,9 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 </td>
     <td valign="top" width="33%">
       
-### ⚡ Development Tools
-- AI-Powered Development
-- Code Review
+### ⚡ AI-Assisted Development
+- GitHub Copilot & Cursor
+- AI-Powered Code Review
 - CI/CD Pipelines
 - Testing Strategies
 - Documentation
@@ -129,7 +163,8 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 ## 🛠️ Tools & Technologies
 
-### AI & Development Tools
+### AI-Assisted Development Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-8A63D2?style=for-the-badge&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -145,31 +180,10 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 ### Methodologies
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shady1440&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shady1440&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shady1440&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Contribution Matrix
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shady1440&theme=react-dark&hide_border=true&area=true)
-
-</div>
+![BMAD Method](https://img.shields.io/badge/BMAD_Method-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ---
 
