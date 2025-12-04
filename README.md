@@ -108,6 +108,33 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
+### Accessibility
+![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![ARIA](https://img.shields.io/badge/ARIA-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![axe](https://img.shields.io/badge/axe_DevTools-663399?style=for-the-badge&logo=deque&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Screen Readers](https://img.shields.io/badge/Screen_Readers-000000?style=for-the-badge&logo=accessible-icon&logoColor=white)
+
+### AI-Assisted Development Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-8A63D2?style=for-the-badge&logo=anthropic&logoColor=white)
+[![BMAD Method](https://img.shields.io/badge/BMAD_Method-FF6B6B?style=for-the-badge&logo=target&logoColor=white)](https://github.com/bmad-code-org/BMAD-METHOD)
+[![OpenSpec](https://img.shields.io/badge/OpenSpec-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://github.com/Fission-AI/OpenSpec)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+
+### Project Management & Methodologies
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white)
+
+### Design & Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 🎯 Areas of Expertise
@@ -146,32 +173,6 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 </td>
   </tr>
 </table>
-
----
-
-## 🛠️ Tools & Technologies
-
-### AI-Assisted Development Tools
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-8A63D2?style=for-the-badge&logo=anthropic&logoColor=white)
-[![BMAD Method](https://img.shields.io/badge/BMAD_Method-FF6B6B?style=for-the-badge&logo=target&logoColor=white)](https://github.com/bmad-code-org/BMAD-METHOD)
-[![OpenSpec](https://img.shields.io/badge/OpenSpec-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://github.com/Fission-AI/OpenSpec)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-
-### Project Management
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
-### Design & Collaboration
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Methodologies
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
