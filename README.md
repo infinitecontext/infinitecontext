@@ -4,8 +4,8 @@
 
 ### Full Stack Developer | Frontend Specialist | Cloud Enthusiast | AI-Assisted Development
 
-[![GitHub followers](https://img.shields.io/github/followers/shady1440?label=Follow&style=social)](https://github.com/shady1440)
-[![Profile Views](https://komarev.com/ghpvc/?username=shady1440&color=blue&style=flat)](https://github.com/shady1440)
+[![GitHub followers](https://img.shields.io/github/followers/infinitecontext?label=Follow&style=social)](https://github.com/infinitecontext)
+[![Profile Views](https://komarev.com/ghpvc/?username=infinitecontext&color=blue&style=flat)](https://github.com/infinitecontext)
 
 </div>
 
@@ -20,9 +20,9 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shady1440/shady1440/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shady1440/shady1440/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shady1440/shady1440/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infinitecontext/infinitecontext/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitecontext/infinitecontext/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infinitecontext/infinitecontext/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -180,7 +180,7 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shady1440-181717?style=for-the-badge&logo=github)](https://github.com/shady1440)
+[![GitHub](https://img.shields.io/badge/GitHub-infinitecontext-181717?style=for-the-badge&logo=github)](https://github.com/infinitecontext)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shady_Abdelhamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shady-abdelhamid/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO7IqyJbtWts191fPzI0PuQ)
 
@@ -194,7 +194,7 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shady1440&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=infinitecontext&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -204,10 +204,10 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shady1440&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinitecontext&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shady1440&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=infinitecontext&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shady1440&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitecontext&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
