@@ -107,6 +107,7 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=bugsnag&logoColor=white)
 
 ### Accessibility
 ![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
@@ -131,6 +132,7 @@ I'm a passionate full-stack developer who leverages **AI-assisted development** 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white)
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-00ADD8?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ### Design & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
